@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+.grass{
+    color: darkgreen;
+}
+
+.fire{
+    color: darkred;
+}
